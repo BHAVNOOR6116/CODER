@@ -10,6 +10,14 @@ height: 100vh;
 overflow: hidden;
 background:grey;
 }
+.Remember-forget{
+font-size: .9em;
+color: #162938;
+font-size: 500;
+margin: -15px 0 15px;
+display: flex;
+justify-content: space-between;
+}
 .wrapper{
     position: absolute;
     top: 50%;
